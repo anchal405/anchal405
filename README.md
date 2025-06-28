@@ -1,4 +1,7 @@
-![logo](https://github.com/anchal405/anchal405/blob/main/GITHUB_BANNER.avif)
+<p align="center">
+  <img src="https://github.com/anchal405/anchal405/blob/main/GITHUB_BANNER.avif?raw=true" alt="GitHub Banner" width="800"/>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Anchal malik</h1>
 <h3 align="center">From Campus to Code: ML & GenAI Journeys</h3>
