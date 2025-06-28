@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/anchal405/anchal405/blob/main/GITHUB_BANNER.avif?raw=true" alt="GitHub Banner" width="800"/>
-</p>
+![banner]()
+
 
 
 <h1 align="center">Hi 👋, I'm Anchal malik</h1>
