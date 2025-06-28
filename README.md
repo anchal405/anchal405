@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anchal malik</h1>
 <h3 align="center">From Campus to Code: ML & GenAI Journeys</h3>
 
-- 🔭 I’m currently working on [YojnaPath](https://github.com/anchal405/Yojna_Path)
-
 - 🌱 I’m currently learning **Large Language Models, RAG Agents, LangChain, Vector Databases, FastAPI, and Generative AI deployment strategies**
-
-- 👯 I’m looking to collaborate on [CodeX-Zynga-Hackathon](https://github.com/Hustler-01/CodeX-Zynga-Hackathon)
 
 - 👨‍💻 All of my projects are available at [https://github.com/anchal405/ML_PROJECTS_PORTFOLIO](https://github.com/anchal405/ML_PROJECTS_PORTFOLIO)
 
