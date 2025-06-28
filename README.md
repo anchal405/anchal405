@@ -38,7 +38,9 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anchal405&show_icons=true&locale=en&layout=compact" alt="anchal405" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anchal405&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anchal405" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anchal405&" alt="anchal405" /></p>
 
