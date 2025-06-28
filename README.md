@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anchal malik</h1>
 <h3 align="center">From Campus to Code: ML & GenAI Journeys</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2498700-Toptal-Scholarship-for-Female-Developers-Winner&psig=AOvVaw39sJwbXIqlSnp79f6yFpu6&ust=1751186146910000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjMg4bz2pOOAxUOSWwGHcPlEIYQjRx6BAgAEBg![image](https://github.com/user-attachments/assets/0a81aa58-df5d-4a33-82a1-8e4a0a338a97)
-")
-">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/41793229/file/original-bdf593e10d45bcc08263d027f48ff009.gif">
 - 🌱 I’m currently learning **Large Language Models, RAG Agents, LangChain, Vector Databases, FastAPI, and Generative AI deployment strategies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anchal405/ML_PROJECTS_PORTFOLIO](https://github.com/anchal405/ML_PROJECTS_PORTFOLIO)
