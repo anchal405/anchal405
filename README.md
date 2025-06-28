@@ -1,3 +1,5 @@
+![logo]()
+
 <h1 align="center">Hi 👋, I'm Anchal malik</h1>
 <h3 align="center">From Campus to Code: ML & GenAI Journeys</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/41793229/file/original-bdf593e10d45bcc08263d027f48ff009.gif">
