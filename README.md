@@ -38,9 +38,12 @@
 </p>
 
 
+<h3 align="center">GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anchal405&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anchal405" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchal405&layout=compact&theme=default&card_width=350" alt="Top Languages" height="200px"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anchal405&theme=default" alt="GitHub Streak Stats" height="200px"/>
 </p>
 
 
