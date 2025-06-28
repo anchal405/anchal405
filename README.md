@@ -1,4 +1,7 @@
-![banner](GITHUB_BANNER.png)
+<p align="center">
+  <img src="https://github.com/anchal405/anchal405/blob/main/GITHUB_BANNER.png?raw=true" alt="GitHub Banner" width="800"/>
+</p>
+
 
 
 
