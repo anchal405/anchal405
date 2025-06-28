@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/anchal405/anchal405/blob/main/github_banner.png?raw=true" alt="GitHub Banner" width="600"/>
+  <img src="https://github.com/anchal405/anchal405/blob/main/github_banner.png?raw=true" alt="GitHub Banner" width="500"/>
 </p>
 
 
